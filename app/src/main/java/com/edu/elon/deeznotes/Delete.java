@@ -1,4 +1,4 @@
-package edu.elon.cs.flying;
+package com.edu.elon.deeznotes;
 
 import android.content.Context;
 import android.graphics.Bitmap;
